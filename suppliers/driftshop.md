@@ -9,10 +9,9 @@ https://www.driftshop.fr
 - Maintenance consumables
 
 ## Reliability
-[good / average / poor]
+good
 
 ## Delivery time
-[typical delay]
-
+7 to 14 days
 ## Notes
-Packaging quality, customer service, returns experience.
+
