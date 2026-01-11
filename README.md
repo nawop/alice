@@ -48,11 +48,5 @@ daihatsu-hijet-logbook/
 - Templates: `templates/`
 
 ---
-
-## How to use this repository
-
-1. Log every maintenance task in `logbook/`
-2. Document problems and solutions in `issues/`
-3. Register every part in `parts-catalog/`
-4. Keep photos and diagrams in `media/`
-5. Use the templates to keep everything consistent
+## About suppliers
+I prefer to order most parts from one supplier to save on shipping, preferably from within the EU to avoid import duty fees.
