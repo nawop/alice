@@ -4,4 +4,4 @@ Chronological list of all maintenance operations and modifications.
 
 | Date       | Mileage | Category | Description |
 |------------|---------|----------|-------------|
-| YYYY-MM-DD |         |          |             |
+| 2025-08-29 | First oil change with flush additive        |Engine/Oil          |             |
