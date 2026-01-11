@@ -11,7 +11,8 @@ The goal is to keep a clear technical history of the vehicle and build a reliabl
 
 ## Vehicle
 
-- Model: Daihatsu Hijet  
+- Model: Daihatsu Hijet
+- Chassis: S110P
 - Year: 1998  
 - Engine: EF-NS  
 - Transmission: manual 4x4  
