@@ -22,12 +22,19 @@ The goal is to keep a clear technical history of the vehicle and build a reliabl
 ## Repository structure
 
 daihatsu-hijet-logbook/
+
 ├── docs/ → static reference documentation
+
 ├── logbook/ → chronological maintenance entries
+
 ├── issues/ → problems, diagnosis, and solutions
+
 ├── parts-catalog/ → parts references and suppliers
+
 ├── suppliers/ → shop and vendor notes
+
 ├── templates/ → templates for consistent documentation
+
 └── media/ → photos and diagrams
 
 
