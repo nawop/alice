@@ -38,16 +38,6 @@ daihatsu-hijet-logbook/
 
 └── media/ → photos and diagrams
 
-
----
-
-## Quick access
-
-- Maintenance logbook: `logbook/index.md`
-- Issues & fixes: `issues/`
-- Parts catalogue: `parts-catalog/index.md`
-- Templates: `templates/`
-
 ---
 ## About suppliers
 I prefer to order most parts from one supplier to save on shipping, preferably from within the EU to avoid import duty fees.
