@@ -1,0 +1,39 @@
+# Issue Report
+
+## Date discovered
+11.01.2026
+
+## Mileage
+65431km
+
+## System concerned
+body
+
+## Symptoms
+Key does not turn in door lock. Need to rattle key or lift door handle a bit.
+
+## Conditions
+(Very cold weather.)
+
+## Initial hypotheses
+Key or lock barrel are old and worn.
+
+## Diagnosis process
+Lifting the door handle possibly aligns pins in barrel. Does not alway appear, very smooth opening otherwise.
+
+## Root cause
+Age, wear and tear, (cold weather).
+
+## Solution applied
+What was done to fix it.
+
+## Parts used
+| Part | OEM ref | Aftermarket ref | Supplier | Link |
+|------|---------|-----------------|----------|------|
+|      |         |                 |          |      |
+
+## Result
+Outcome after repair.
+
+## Lessons learned
+What to check first if this happens again.
