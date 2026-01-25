@@ -10,3 +10,4 @@ Chronological list of all maintenance operations and modifications.
 | 10.09.2025 |         | Tires    | Tire change |
 | 10.01.2026 | 65431km | Engine/Coolant | Flushed radiator to remove possible residue from last flush. Topped up overflow tank |
 | 11.01.2026 | 65431km | Engine/Oil | Topped up oil level|
+| 24.01.2026 | 65687km | Air Filter | Replaced air filter |
